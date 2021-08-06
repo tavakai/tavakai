@@ -1,4 +1,12 @@
-### Hi there 👋
+### Привет, меня зовут Амыр 👋
+
+* 🎨 Нравится реализация новых интересных идей
+* 🙋‍♂️🙋‍♀️🙋‍♂️ Хочу работать в команде
+* 📚 Учусь новому
+* 🔓 Стремлюсь писать понятный и читабельный код
+* ⚡ Фанат серии книг Дюна
+
+### Мой стек: HTML 🌟 CSS 🌟 Javascript 🌟 React 🌟 git
 
 <!--
 **tavakai/tavakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
