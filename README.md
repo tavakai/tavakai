@@ -7,13 +7,13 @@
 * ⚡ Фанат серии книг Дюна
 
 ### Стек: 
-🌟 Javascript
-🌟 React
-🌟 TypeScript
-🌟 Redux
-🌟 MongodDB
-🌟 HTML
-🌟 CSS
+####🌟 Javascript
+####🌟 React
+####🌟 TypeScript
+####🌟 Redux
+####🌟 MongodDB
+####🌟 HTML
+####🌟 CSS
 
 <!--
 **tavakai/tavakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
